@@ -3,7 +3,7 @@ import { useState } from "react";
 import "./App.css";
 import Boton from "./components/Boton";
 
-
+/*Si los numeros son menores o iguales a cero que nos lo vuelva a pedir */
 
 function App() {
 
